@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seul</h1>
 <h3 align="center">Developer in LUCKYVN NETWORK. Top Minecraft Server in VIETNAM</h3>
 
-- 🔭 I’m currently working on [LUCKYVN MINECRAFT SERVER VIETNAM](https://luckyvn.com/)
+- 🔭 I’m currently working on [LUCKYVN MINECRAFT SERVER](https://luckyvn.com/)
 
 - 🌱 I’m currently learning **USTH University**
 
