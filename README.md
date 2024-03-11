@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/seulnoe.174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/seulnoe.174" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0ibsb6cjrnhfuflpjap8fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ibsb6cjrnhfuflpjap8fw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc0ibsb6cjrnhfuflpjap8fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0ibsb6cjrnhfuflpjap8fw" height="30" width="40" /></a>
 <a href="https://discord.gg/luckyvn-network-offical-discord-684293554918391815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luckyvn.com/discord" height="30" width="40" /></a>
 </p>
 
