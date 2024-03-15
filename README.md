@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Minecraft Server, Minecraft Laucher, LuckyVN, ...**
 
-- 📫 How to reach me **thienforwork2005@gmail.com**
+- 📫 You want to code some plugin? Contact to me: **thienforwork2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
